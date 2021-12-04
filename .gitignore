@@ -2,3 +2,7 @@
 /build/
 /android/.gradle/
 /android/gradle/wrapper/gradle-wrapper.jar
+/.idea/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
